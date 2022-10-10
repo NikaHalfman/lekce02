@@ -12,4 +12,10 @@ body {
 
 
 /* tady bude tvůj kód */
-
+nav{
+    background-color: rgb(200, 70, 70);
+    text-align: left;
+    color: white;
+    padding: 25px;
+    margin: 0;
+}
